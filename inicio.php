@@ -1,4 +1,4 @@
 <?php
-echo "hola betis";
+echo "hola betis manque pierda";
 echo "hola bar";
 ?>
