@@ -1,2 +1,1 @@
 estoy creando una rama y dentro de ésta, este fichero .txt
-añado linea de pueba
